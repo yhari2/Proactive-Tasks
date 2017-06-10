@@ -1,2 +1,2 @@
 # Proactive-Tasks
-CMU HCI Lab Research
+CMU UBICOMP Lab
